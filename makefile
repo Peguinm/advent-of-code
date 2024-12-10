@@ -3,7 +3,7 @@
 # to compile, just use make, without any lable
 # It should compile and run
 DAY := 2
-PART := 1
+PART := 2
 # ================= #
 
 FILE := day$(DAY)/day$(DAY)_part$(PART)

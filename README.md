@@ -1,6 +1,6 @@
 # Advent Of Code
 
-My solutions to [Advent Of Code 2024](https://adventofcode.com/2024/day/1)
+My solutions to [Advent Of Code 2024](https://adventofcode.com/)
 
 **Languages**: C++, Go
 
