@@ -1,8 +1,6 @@
-# advent-of-code
+# Advent Of Code
 
-My solutions [to Advent Of Code 2024](https://adventofcode.com/2024/day/1)
-
-Trying to resolve all days
+My solutions to [Advent Of Code 2024](https://adventofcode.com/2024/day/1)
 
 **Languages**: C++, Go
 
